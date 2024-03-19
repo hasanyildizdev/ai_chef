@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Chef Frontend
 
 AI Chef, ai learning project, test purpose only.
