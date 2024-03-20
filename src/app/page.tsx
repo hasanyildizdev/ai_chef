@@ -1,4 +1,10 @@
 import Image from "next/image";
+import {Metadata} from "next";
+
+export const metadata: Metadata = {
+  title: "AI Chef",
+  description: "AI Chef your helper in the kithen!",
+};
 
 export default function Home() {
   return (

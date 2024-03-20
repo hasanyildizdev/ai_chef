@@ -8,6 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors:{
+        dark: '#000000',
+        light: '#ffffff',
+      },
+      boxShadow: {
+        signUp: "0px 5px 10px rgba(4, 10, 34, 0.2)",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
